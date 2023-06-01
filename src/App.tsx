@@ -28,8 +28,6 @@ function App() {
         }
     };
 
-    console.log(user);
-
     return (
         <Container>
             <TheHeader />
